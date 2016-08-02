@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.08311675
+color:
+  saturation: 0.949324
+  brandStrength: 0.7118998
+  lightness: 0.4211583
+  rhythmicContrast: 0.932497
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: SwingoutLive
